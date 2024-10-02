@@ -1,0 +1,7 @@
+https://samadhi.axiomthemes.com/home-2/
+
+fonts: renner,reforma;
+
+color: text-color: #ffffff;
+	paragraph-text-color: #7e7e7e;
+	black: #282828;
